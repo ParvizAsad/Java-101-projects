@@ -16,13 +16,10 @@ public class Main {
         double tarih = doubleInput("Tarih");
         double müzik = doubleInput("Müzik");
 
-        double result = (matematik + fizik + kimya + türkçe + tarih + müzik)/6;
-var checkValue = result>60;
-        String results =  checkValue ? "Sınıfı Geçti" : "Sınıfta Kaldı";
-       System.out.println(results);
-
-
-
+        double result = (matematik + fizik + kimya + türkçe + tarih + müzik) / 6;
+        var checkValue = result > 60;
+        String results = checkValue ? "Sınıfı Geçti" : "Sınıfta Kaldı";
+        System.out.println(results);
 
     }
 
