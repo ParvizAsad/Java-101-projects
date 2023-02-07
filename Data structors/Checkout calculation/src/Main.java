@@ -28,8 +28,12 @@ public class Main {
             kg = doubleInput(product.name + " neçə kg?");
             totalPrice += kg * product.price;
         }
-        System.out.println("Toplam: " + totalPrice + " Tl");
 
+
+        double finalValue = Math.round( totalPrice * 100.0 ) / 100.0;
+
+
+        System.out.println("Toplam: " + finalValue + " Tl");
 
     }
 
