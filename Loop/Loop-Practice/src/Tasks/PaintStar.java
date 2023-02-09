@@ -1,3 +1,5 @@
+package Tasks;
+
 public class PaintStar {
     public static void main(String[] args) {
         int n = Util.intInput("Sayi daxil edin: ");

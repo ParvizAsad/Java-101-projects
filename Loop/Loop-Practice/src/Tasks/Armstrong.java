@@ -1,3 +1,5 @@
+package Tasks;
+
 public class Armstrong {
     //    Bir sayının basamak sayılarının toplamını hesaplayan program yazınız.
     public static void main(String[] args) {

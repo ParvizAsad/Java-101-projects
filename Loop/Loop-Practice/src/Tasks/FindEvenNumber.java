@@ -1,3 +1,5 @@
+package Tasks;
+
 public class FindEvenNumber {
 //    Ödev
 //    Java döngüler ile 0'dan girilen sayıya kadar olan sayılardan

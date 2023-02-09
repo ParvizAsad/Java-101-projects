@@ -1,3 +1,5 @@
+package Tasks;
+
 public class HarmoniksayiBulma {
     public static void main(String[] args) {
         int n= Util.intInput("Sayini daxil eidn: ");

@@ -1,3 +1,5 @@
+package Tasks;
+
 public class EvenCalculation {
 //  Ödev
 //  Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve
