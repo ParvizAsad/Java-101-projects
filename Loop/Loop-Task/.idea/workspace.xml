@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e339794-bb85-40d7-9332-819f9979cafa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Loop-Practice/src/Tasks/EbobEkok.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loop-Task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindMaxAndMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loop-Practice/out/production/Loop-Practice/AtmProject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Loop-Practice/out/production/Loop-Practice/AtmProject/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MükemmelSayiBulma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675960459890</updated>
-      <workItem from="1675960462954" duration="1402000" />
+      <workItem from="1675960462954" duration="2720000" />
     </task>
     <servers />
   </component>
