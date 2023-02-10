@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e339794-bb85-40d7-9332-819f9979cafa" name="Changes" comment="" />
+    <list default="true" id="329822cc-1250-4258-8d84-826c81d145d7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Loop/Loop-Task/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Loop/Loop-Task/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2LVe0eWHY1hudhg4G2tjJ42htKD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2LXxIEg6fRCh6yCunyOeaaBVVbl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,26 +22,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/IT and Automation/2. Development/Course/Kodluyoruz/Java-101-projects/Loop/Loop-Task/src"
+    "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IT and Automation\2. Development\Course\Kodluyoruz\Java-101-projects\Loop\Loop-Task\src" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6e339794-bb85-40d7-9332-819f9979cafa" name="Changes" comment="" />
-      <created>1675960459890</created>
+      <changelist id="329822cc-1250-4258-8d84-826c81d145d7" name="Changes" comment="" />
+      <created>1676031147207</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675960459890</updated>
-      <workItem from="1675960462954" duration="2720000" />
-      <workItem from="1676007820611" duration="5664000" />
+      <updated>1676031147207</updated>
+      <workItem from="1676031148478" duration="3000" />
     </task>
     <servers />
   </component>
