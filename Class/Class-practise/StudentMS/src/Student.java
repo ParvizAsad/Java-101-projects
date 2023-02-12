@@ -66,9 +66,9 @@ public class Student {
 
     public void printNote(){
         System.out.println("=========================");
-        System.out.println("Öğrenci : " + this.name);
-        System.out.println("Matematik Notu : " + this.mat.note);
-        System.out.println("Fizik Notu : " + this.fizik.note);
+        System.out.println("Tələbə : " + this.name);
+        System.out.println("Riyaziyyat Notu : " + this.mat.note);
+        System.out.println("Fizika Notu : " + this.fizik.note);
         System.out.println("Kimya Notu : " + this.kimya.note);
     }
 
